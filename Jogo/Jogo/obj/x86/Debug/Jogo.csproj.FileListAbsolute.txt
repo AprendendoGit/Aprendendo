@@ -1,0 +1,6 @@
+C:\Users\Tatiane Pedro\Desktop\Aprendendo\Jogo\Jogo\bin\Debug\Jogo.exe
+C:\Users\Tatiane Pedro\Desktop\Aprendendo\Jogo\Jogo\bin\Debug\Jogo.pdb
+C:\Users\Tatiane Pedro\Desktop\Aprendendo\Jogo\Jogo\obj\x86\Debug\Jogo.Properties.Resources.resources
+C:\Users\Tatiane Pedro\Desktop\Aprendendo\Jogo\Jogo\obj\x86\Debug\Jogo.csproj.GenerateResource.Cache
+C:\Users\Tatiane Pedro\Desktop\Aprendendo\Jogo\Jogo\obj\x86\Debug\Jogo.exe
+C:\Users\Tatiane Pedro\Desktop\Aprendendo\Jogo\Jogo\obj\x86\Debug\Jogo.pdb
